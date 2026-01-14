@@ -1,0 +1,8 @@
+{
+  "name": "fam-api",
+  "version": "1.0.0",
+  "description": "Fam ID to Phone Number API",
+  "scripts": {
+    "start": "python app.py"
+  }
+}
