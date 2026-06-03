@@ -138,7 +138,7 @@ Security Researcher
 
 ---
 
-💔 Patvhed 
+💔 Patched 
 
 Not working anymore 
 Fampay fix there bug 
